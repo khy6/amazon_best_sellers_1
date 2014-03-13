@@ -5,7 +5,7 @@ import scraperwiki
 import scraperwiki           
 import lxml.html           
 
-urls = ["http://www.amazon.com/Best-Sellers-Watches-Collectible/zgbs/watches/378522011/ref=zg_bs_nav_watch_1_watch"]
+urls = ["http://www.amazon.co.uk/gp/bestsellers"]
 
 for wurl in urls:
     error = True
